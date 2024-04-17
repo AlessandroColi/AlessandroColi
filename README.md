@@ -5,7 +5,7 @@
 <p>:mortar_board: computer science and engineering student 💻</p>
   <img src="https://komarev.com/ghpvc/?username=AlessandroColi&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="title" align="center"><p>:hammer_and_wrench: Languages and Tools:</p></div>
+<div id="title" align="left"><p>:hammer_and_wrench: Languages and Tools:</p></div>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="30"/>&nbsp;
@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="30"/>&nbsp;
 </div>
-<div id="title" align="center"><p>🤓My Stats:</p></div>
+<div id="title" align="left"><p>🤓My Stats:</p></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroColi&layout=donut&theme=dark)
 
