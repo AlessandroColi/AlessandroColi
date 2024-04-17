@@ -5,9 +5,7 @@
 ### computer science and engineering student
   <img src="https://komarev.com/ghpvc/?username=AlessandroColi&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="header" align="center">
-  ### :hammer_and_wrench: Languages and Tools:
-</div>
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="30"/>&nbsp;
@@ -30,9 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="30"/>&nbsp;
 </div>
-<div id="header" align="center">
-  ### My Stats:
-</div>
+### My Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroColi&layout=donut&theme=dark)
 
