@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=AlessandroColi&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="50"/>&nbsp;
