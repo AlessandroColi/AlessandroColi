@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></br>
 </div>
 <div id="title" align="center">
-<p>:mortar_board: computer science and engineering student 💻</p>
+<p>:mortar_board: computer science master's student 💻</p>
   <img src="https://komarev.com/ghpvc/?username=AlessandroColi&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="title" align="left"><p>:hammer_and_wrench: Languages and Tools:</p></div>
