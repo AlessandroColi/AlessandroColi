@@ -32,5 +32,3 @@
 <div id="title" align="left"><p>🤓My Stats:</p></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroColi&layout=donut&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AlessandroColi&theme=dark)
