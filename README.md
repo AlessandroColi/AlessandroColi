@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></br>
 </div>
 <div id="title" align="center">
-<p>:mortar_board: computer science master's gradueate at Unibo 💻</p>
-<p>currently master's in Computer Science student at KTH </p>
+<p>:mortar_board: computer science master's student 💻</p>
   
   <img src="https://komarev.com/ghpvc/?username=AlessandroColi&style=flat-square&color=blue" alt=""/>
 </div>
