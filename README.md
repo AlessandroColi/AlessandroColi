@@ -32,3 +32,4 @@
 <div id="title" align="left"><p>🤓My Stats:</p></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroColi&layout=donut&theme=dark)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=AlessandroColi)](https://github.com/LordDashMe/github-contribution-stats/)
