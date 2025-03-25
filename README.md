@@ -30,6 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="30"/>&nbsp;
 </div>
 <div id="title" align="left"><p>🤓My Stats:</p></div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroColi&layout=donut&theme=dark)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=AlessandroColi)](https://github.com/LordDashMe/github-contribution-stats/)
+<p align= "center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=AlessandroColi" alt="Contribution Stats" style="height: 200px;">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroColi&layout=donut&theme=dark" alt="Top Langs" style="height: 200px;">
+</p>
