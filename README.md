@@ -2,10 +2,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></br>
 </div>
 <div id="title" align="center">
+
+<br>
 <p>:mortar_board: computer science master's student 💻</p>
   
   <img src="https://komarev.com/ghpvc/?username=AlessandroColi&style=flat-square&color=blue" alt=""/>
 </div>
+
+<br><br>
 <div id="title" align="left"><p>:hammer_and_wrench: Languages and Tools:</p></div>
 
 <div align="center">
@@ -29,6 +33,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="30"/>&nbsp;
 </div>
+
+<br><br>
 <div id="title" align="left"><p>🤓My Stats:</p></div>
 <p align= "center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
