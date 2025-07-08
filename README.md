@@ -21,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="unity" width="30"/>&nbsp;
+
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50"/>&nbsp;
@@ -37,8 +39,5 @@
 <br><br>
 <div id="title" align="left"><p>🤓My Stats:</p></div>
 <p align= "center">
-  <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=AlessandroColi" alt="Contribution Stats" style="height: 200px;">
-  </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroColi&layout=donut&theme=dark" alt="Top Langs" style="height: 200px;">
 </p>
