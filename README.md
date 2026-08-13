@@ -211,9 +211,6 @@
 <!--  REACH ME                                                    -->
 
 <div id="contact" align="center">
-<!---->
-  <h2>📫 Reach me</h2>
-<!---->
   <p>
     <a href="mailto:Alessandro.Coli@protonmail.com">
       <img
