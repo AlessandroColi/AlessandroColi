@@ -31,7 +31,7 @@
   <p>
     <strong>MSc Computer Science @ KTH</strong> &nbsp;·&nbsp; AI inference research at
     <strong>Huawei Stockholm</strong> &nbsp;·&nbsp; graduating <strong>Sept 2026</strong> &nbsp;·&nbsp;
-    <strong>Italian in Stockholm</strong> 🇮🇹&nbsp;🇸🇪
+    <strong>Italian in Stockholm</strong> 🇮🇹 &nbsp :sweden:;
   </p>
 <!---->
 </div>
@@ -58,8 +58,7 @@
       Defense <strong>Sept 2026</strong>.
     </li>
     <li>
-      Learning <strong>OpenJDK internals</strong> — JVM memory areas, GC algorithms
-      (G1, ZGC, Shenandoah), and C++ memory model.
+      Learning GC algorithms, C++ memory model, and JVM memory areas.
     </li>
   </ul>
 <!---->
@@ -160,91 +159,55 @@
 <!---->
   <h2>🚀 Featured work</h2>
 <!---->
-  <p align="center">
-    <a href="https://github.com/AlessandroColi/tirocinio-KotlinMqttMultiplatform-new">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroColi&repo=tirocinio-KotlinMqttMultiplatform-new&theme=tokyonight&hide_border=true&show_owner=false"
-        alt="PulvReAKt MQTT module"
-      />
-    </a>
-    &nbsp;
-    <a href="https://github.com/AlessandroColi/SE25_DECIDE">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroColi&repo=SE25_DECIDE&theme=tokyonight&hide_border=true&show_owner=false"
-        alt="DECIDE launch-interceptor system"
-      />
-    </a>
-    &nbsp;
-    <a href="https://github.com/AlessandroColi/Pattern-Recognition-and-ML">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroColi&repo=Pattern-Recognition-and-ML&theme=tokyonight&hide_border=true&show_owner=false"
-        alt="Pattern Recognition & ML"
-      />
-    </a>
-    &nbsp;
-    <a href="https://github.com/AlessandroColi/ESIOT23-ghIOTti">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroColi&repo=ESIOT23-ghIOTti&theme=tokyonight&hide_border=true&show_owner=false"
-        alt="Embedded Systems & IoT labs"
-      />
-    </a>
-  </p>
+  <table align="center" width="100%" cellpadding="12">
+<!---->
+    <!-- Row 1 -->
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🛰 <a href="https://github.com/AlessandroColi/tirocinio-KotlinMqttMultiplatform-new">PulvReAKt MQTT module</a></h3>
+        <p>Cross-platform MQTT communication layer for distributed IoT — Kotlin Multiplatform (JVM, JS, Native). My bachelor's thesis.</p>
+        <p>
+          <code>Kotlin</code> <code>Gradle</code> <code>MQTT</code> <code>Distributed Systems</code>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🛰️ <a href="https://github.com/AlessandroColi/SE25_DECIDE">DECIDE</a></h3>
+        <p>Launch-interceptor decision system: formal spec to tested Python (KTH Software Engineering course).</p>
+        <p>
+          <code>Python</code> <code>Testing</code> <code>Spec-driven dev</code>
+        </p>
+      </td>
+    </tr>
+<!---->
+    <!-- Row 2 -->
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🧬 <a href="https://github.com/AlessandroColi/Pattern-Recognition-and-ML">Pattern Recognition &amp; ML</a></h3>
+        <p>HMMs, sequence models and ML coursework.</p>
+        <p>
+          <code>Python</code> <code>NumPy</code> <code>scikit-learn</code>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🔌 <a href="https://github.com/AlessandroColi/ESIOT23-ghIOTti">ESIOT23</a></h3>
+        <p>Embedded systems &amp; IoT lab series in C++.</p>
+        <p>
+          <code>C++</code> <code>Embedded</code> <code>IoT</code>
+        </p>
+      </td>
+    </tr>
+<!---->
+  </table>
 <!---->
   <details>
-    <summary><strong>📚 One-liner for each</strong></summary>
+    <summary><strong>📚 Notes on these</strong></summary>
     <br />
-    <ul>
-      <li>
-        <strong>🛰 PulvReAKt MQTT module</strong> &mdash; cross-platform MQTT communication layer for
-        distributed IoT (Kotlin Multiplatform: JVM, JS, Native). My bachelor's thesis.
-      </li>
-      <li>
-        <strong>🛰️ DECIDE</strong> &mdash; launch-interceptor decision system: formal spec to tested
-        Python (KTH Software Engineering course).
-      </li>
-      <li>
-        <strong>🧬 Pattern Recognition &amp; ML</strong> &mdash; HMMs, sequence models and coursework from
-        the KTH ML track.
-      </li>
-      <li>
-        <strong>🔌 ESIOT23</strong> &mdash; embedded systems &amp; IoT lab series in C++ (KTH).
-      </li>
-    </ul>
+    <p>
+      My Huawei AMM master's thesis is currently private (industrial research at Huawei); it'll be made public after defense.
+    </p>
   </details>
 <!---->
 </div>
-
-
-
-<hr />
-
-<!--  GITHUB STATS                                                 -->
-
-<div id="stats" align="center">
-<!---->
-  <h2>📊 GitHub stats</h2>
-<!---->
-  <p>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=AlessandroColi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-      alt="GitHub stats"
-    />
-    &nbsp;
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroColi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-      alt="Top languages"
-    />
-  </p>
-<!---->
-  <p>
-    <img
-      src="https://streak-stats.demolab.com?user=AlessandroColi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-      alt="Streak stats"
-    />
-  </p>
-<!---->
-</div>
-
 
 
 <hr />
