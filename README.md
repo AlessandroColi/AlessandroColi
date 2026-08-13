@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <!---->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=CS+Master+@+KTH;working+in+AI+optimization+research;Backend+and+Distributed+Systems+passion"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=CS+Master+@+KTH;Working+in+AI+optimization+research;Backend+-+Distributed+Systems+passion"
     alt="Alessandro Coli — typing intro"
   />
 <!---->
