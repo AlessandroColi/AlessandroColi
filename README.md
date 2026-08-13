@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <!---->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=CS+Master+@+KTH;working+in+AI+optimization+research;OPassionate+about+backend+%2F+distributed+systems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=CS+Master+@+KTH;working+in+AI+optimization+research;Backend+and+Distributed+Systems+passion"
     alt="Alessandro Coli — typing intro"
   />
 <!---->
@@ -15,7 +15,7 @@
   &nbsp;&nbsp;
 <!---->
   <img
-    src="https://img.shields.io/badge/Open%20to%20Work-JVM%20%C2%B7%20ML%20Systems%20%C2%B7%20Backend-2ea043?style=for-the-badge&logo=handshake&logoColor=white"
+    src="https://img.shields.io/badge/Open%20to%20Work-Distributed%20Systems%20%C2%B7%20ML%20%20%C2%B7%20Backend-2ea043?style=for-the-badge&logo=handshake&logoColor=white"
     alt="Open to work"
   />
 <!---->
@@ -31,7 +31,7 @@
   <p>
     <strong>MSc Computer Science @ KTH</strong> &nbsp;·&nbsp; AI inference research at
     <strong>Huawei Stockholm</strong> &nbsp;·&nbsp; graduating <strong>Sept 2026</strong> &nbsp;·&nbsp;
-    <strong>Italian in Stockholm</strong> 🇮🇹 &nbsp :sweden:;
+    <strong>Italian in Stockholm</strong>
   </p>
 <!---->
 </div>
@@ -48,14 +48,10 @@
 <!---->
   <ul>
     <li>
-      <strong>Research intern at Huawei (Stockholm)</strong> — Approximate Matrix
-      Multiplication for neural network inference: replacing dense matmul with
-      product-quantization + LSH lookups. Profiling latency, energy and cache
-      behaviour with hardware counters.
+      <strong>Research intern at Huawei (Stockholm)</strong> — Approximate Matrix Multiplication for neural network inference: replacing dense matmul with product-quantization and table lookups. Profiling accuracy, latency, energy, and cache behavior.
     </li>
     <li>
-      <strong>Finishing my Master's thesis</strong> on the same topic.
-      Defense <strong>Sept 2026</strong>.
+      <strong>Finishing my Master's thesis</strong> on the same topic. Defense <strong>Sept 2026</strong>.
     </li>
     <li>
       Learning GC algorithms, C++ memory model, and JVM memory areas.
@@ -75,13 +71,13 @@
 <!---->
   <ul>
     <li>
-      <strong>Backend / distributed systems</strong> &nbsp;(Kotlin / Java / C++)
+      <strong>Backends</strong> (C++ / Java / Kotlin / Python)&nbsp;
     </li>
     <li>
-      <strong>JVM / runtime / GC engineering</strong> &nbsp;(C++, systems, OpenJDK)
+      <strong>Software Engineer</strong> (Distributed Systems - Infrastructure - Data) &nbsp;
     </li>
     <li>
-      <strong>ML systems / inference optimization</strong> &nbsp;(C++, CUDA, performance)
+      <strong>ML systems / inference optimization</strong> (C++, CUDA, performance and complexity analysis) &nbsp;
     </li>
   </ul>
 <!---->
@@ -128,7 +124,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="36" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="36" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="36" />&nbsp;
-        CUDA
+        <img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/cuda.svg" title="Cuda" alt="Cuda" width="36" />&nbsp;
       </td>
       <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="36" />&nbsp;
