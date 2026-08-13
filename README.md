@@ -194,15 +194,6 @@
     </tr>
 <!---->
   </table>
-<!---->
-  <details>
-    <summary><strong>📚 Notes on these</strong></summary>
-    <br />
-    <p>
-      My Huawei AMM master's thesis is currently private (industrial research at Huawei); it'll be made public after defense.
-    </p>
-  </details>
-<!---->
 </div>
 
 
