@@ -30,8 +30,7 @@
 <!---->
   <p>
     <strong>MSc Computer Science @ KTH</strong> &nbsp;·&nbsp; AI inference research at
-    <strong>Huawei Stockholm</strong> &nbsp;·&nbsp; graduating <strong>Sept 2026</strong> &nbsp;·&nbsp;
-    <strong>Italian in Stockholm</strong>
+    <strong>Huawei Stockholm</strong>
   </p>
 <!---->
 </div>
@@ -51,7 +50,7 @@
       <strong>Research intern at Huawei (Stockholm)</strong> — Approximate Matrix Multiplication for neural network inference: replacing dense matmul with product-quantization and table lookups. Profiling accuracy, latency, energy, and cache behavior.
     </li>
     <li>
-      <strong>Finishing my Master's thesis</strong> on the same topic. Defense <strong>Sept 2026</strong>.
+      <strong>Finishing my Master's thesis</strong> on the same topic.
     </li>
     <li>
       Learning GC algorithms, C++ memory model, and JVM memory areas.
